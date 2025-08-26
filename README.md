@@ -8,3 +8,5 @@ STEM fields: 45.5%
 STEM-related fields: 24.7%
 
 Non-STEM fields: 30.0%
+
+STEM and STEM-related fields combined: 40.2%. 
