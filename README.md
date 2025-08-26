@@ -3,10 +3,10 @@ Retention for all international students who graduated between 2012 and 2021 at 
 
 Final retention estimates:
 
-STEM fields: 45.5%
+STEM fields: 45.5% (1.1 million graduates, 500,000 still here)
 
-STEM-related fields: 24.7%
+STEM-related fields: 24.7% (375,000 graduates, 93,000 still here)
 
-Non-STEM fields: 30.0%
+Non-STEM fields: 30.0% (866,000 graduates, 260,000 still here)
 
-STEM and STEM-related fields combined: 40.2%. 
+STEM and STEM-related fields combined: 40.2%. (1.47 million graduates, 593,000 still here). 
